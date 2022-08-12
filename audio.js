@@ -7,42 +7,48 @@ Amplitude.init({
          "source_url": "https://www.siaedge.com/lessons"
       },
       {
-         "name":"Stress Management - Grounding Exercise 1",
-         "url":"./audio/Grounding_Exercise_1.mp3",
+         "name":"How do i setup a mobile money accont",
+         "url":"./audio/Episode+2+Luo.mp3",
          "source": "World Health Organization",
-         "source_url": ""
+         "source_url": "https://www.siaedge.com/lessons"
              
        },
       {
-         "name":"Stress Management - Grounding Exercise 2",
-         "url":"./audio/Grounding_Exercise_2.mp3",
+         "name":"How do i use my phone for saving",
+         "url":"./audio/Episode+3+Luo.mp3",
          "source": "World Health Organizahttpstion",
-         "source_url": "://www.who.int/publications/i/item/9789240003927"
+         "source_url": "https://www.siaedge.com/lessons"
       },
    
       {
-         "name":"Stress Management - Grounding Exercise 3",
-         "url":"./audio/Grounding_Exercise_3.mp3",
+         "name":"How do i send and receive money on my phone",
+         "url":"./audio/Episode+4+Luo.mp3",
          "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
+         "source_url": "https://www.siaedge.com/lessons"
       },
       {
-         "name":"Stress Management - Notice and Name",
-         "url":"./audio/Notice_and_Name.mp3",
+         "name":"How do i set up a merchant account for my business",
+         "url":"./audio/Episode+5+Luo.mp3",
          "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
+         "source_url": "https://www.siaedge.com/lessons"
       },
       {
-         "name":"Stress Management - Unhooking from Unkind Thoughts",
-         "url":"./audio/Unhooking_from_Unkind_Thoughts.mp3",
+         "name":"How do i pay bills on my phone?",
+         "url":"./audio/Episode+6+Luo.mp3",
          "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
+         "source_url": "https://www.siaedge.com/lessons"
       },
       {
-         "name":"Stress Management - Making Room",
-         "url":"./audio/Making_Room.mp3",
+         "name":"How much does it cost to transfer money?",
+         "url":"./audio/Episode+7+Luo.mp3",
          "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
+         "source_url": "https://www.siaedge.com/lessons"
+      },
+      {
+         "name":"How do i ask for help to temporarily stop repaying my loan?",
+         "url":"./audio/Episode+8+Luo.mp3",
+         "source": "World Health Organization",
+         "source_url": "https://www.siaedge.com/lessons"
       },
       {
          "name":"Stress Management - Being Kind to Yourself",
@@ -50,6 +56,7 @@ Amplitude.init({
          "source": "World Health Organization",
          "source_url": "https://www.who.int/publications/i/item/9789240003927"
       },
+
   
    ]
 });
