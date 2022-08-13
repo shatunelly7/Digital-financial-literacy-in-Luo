@@ -9,5 +9,5 @@ This is a collection of recorded audio files in Luo purposely educating people o
 - Using a Smartphone Effectively
 - Tips for Entrepreneurs 
 
-You can check out the final app by clicking [here] (https://womfm-digital-financial-literacy.netlify.app/). 
+You can check out the final app by clicking [here](https://womfm-digital-financial-literacy.netlify.app/). 
 
