@@ -1,33 +1,33 @@
 Amplitude.init({
    "songs":[
       {
-         "name":"How is the financial system changing",
+         "name":"How is the financial system changing?",
          "url":"./audio/Episode+1+Luo.mp3",
          "source": "Strategic Impact Adivisors",
          "source_url": "https://www.siaedge.com/lessons"
       },
       {
-         "name":"How do i setup a mobile money accont",
+         "name":"How do i setup a mobile money account?",
          "url":"./audio/Episode+2+Luo.mp3",
          "source": "Strategic Impact Adivisors",
          "source_url": "https://www.siaedge.com/lessons"
              
        },
       {
-         "name":"How do i use my phone for saving",
+         "name":"How do i use my phone for saving?",
          "url":"./audio/Episode+3+Luo.mp3",
          "source": "Strategic Impact Adivisors",
          "source_url": "https://www.siaedge.com/lessons"
       },
    
       {
-         "name":"How do i send and receive money on my phone",
+         "name":"How do i send and receive money on my phone?",
          "url":"./audio/Episode+4+Luo.mp3",
          "source": "Strategic Impact Adivisors",
          "source_url": "https://www.siaedge.com/lessons"
       },
       {
-         "name":"How do i set up a merchant account for my business",
+         "name":"How do i set up a merchant account for my business?",
          "url":"./audio/Episode+5+Luo.mp3",
          "source": "Strategic Impact Adivisors",
          "source_url": "https://www.siaedge.com/lessons"
