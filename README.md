@@ -1,6 +1,7 @@
 # WOM.fm-Digital Financial Literacy
 
 This is a collection of recorded audio files in Luo purposely educating people on DIGITAL FINANCE. The audios explain the following topics;
+
 -Mobile Money General topics
 -Basic Mobile Money transactions
 -Loans,Savings,Insurance and Budgeting
